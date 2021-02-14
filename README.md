@@ -3,11 +3,12 @@
 
  Lending and Finance
 
-* Name of the company - MOGO https://www.mogo.ca/
+* Name of the company - MOGO 
+https://www.mogo.ca/
 
 * The company was incorporated on 2003
 
-* the founder of the company is David Feller
+* The founder of the company is David Feller
 
 * The major idea behind the development for MOGO is to provide the ease and comfort of borrowing and also taking control of the spending and improving credit by reviewing credit and assisting in improving the score and also starting green initiative. 
 
@@ -23,7 +24,7 @@ They also secured 2 credit facilities with a leading global investment firm and 
 * I would define the the main demography of MOGO would be the youth over 19 and Millenials who are well equipped digitally and require funds in a timely fashion without the hassle of going to a branch and saving time and taking control of their finances
 
 
-#####What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?
+##### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?
 * MOGO has been able to provide lending options at a click of the button with data from the Equifax and and alo AI to understand clients day to day transactions by client agreeing to provide access to the banking and credit check and keeping a track once they agree with the terms and conditions and create a future lending easier based on the laon status
 ##### Which technologies are they currently using, and how are they implementing them?
 
@@ -49,7 +50,7 @@ Big Data for insights for better decision.
 * Peer Iq- company that uses big data to analyse and manage risk in peer to peer lending 
 ## Results
 
-#####What has been the business impact of this company so far?
+##### What has been the business impact of this company so far?
 * The client base is constantly increasing with the latest number being at 1.04 million client base which means the business taken away from the traditional banks.
 * The revenue  as of 2020 is at 7 million Dollars wuith net income of 1.02 Million
 * As the Pandemic surged the loan demand also surged but also the risk was higher in terms of lending the funds.
@@ -86,10 +87,11 @@ Big Data for insights for better decision.
 * Visa nets is the technology by Visa that can be utilzed to generate and use MOGO credit cards.
 * BlockChain Technology to secure Digital ledger of financial Traansactions.
 
-##Bibliograpghy
-https://techcrunch.com/tag/fintech/
-https://www.mogo.ca/
-https://www.morganstanley.com/im/en-us/financial-advisor/insights/articles/fintech-continues-to-disrupt-consumer-lending.html
-https://stackshare.io/mogo/mogo
-https://plaid.com/use-cases/lending/?utm_source=google&utm_medium=search&utm_campaign=Search_G_NonBrand_Lending_BMM&utm_content=fintechlending&utm_term=%2Bfintech%20%2Blending&utm_creative=442388372849&gclid=CjwKCAiAjp6BBhAIEiwAkO9WuknisBwQaIWq45KBsN_JaD01F4bZL4zB9a6Qp9745Mhz8nRv-_XV8RoCpgcQAvD_BwE
-https://blog.lendified.com/small-business-loans-in-minutes-thanks-to-startups
+## Bibliograpghy
+
+* https://techcrunch.com/tag/fintech/
+* https://www.mogo.ca/
+* https://www.morganstanley.com/im/en-us/financial-advisor/insights/articles/fintech-continues-to-disrupt-consumer-lending.html
+* https://stackshare.io/mogo/mogo
+* https://plaid.com/use-cases/lending/?utm_source=google&utm_medium=search&utm_campaign=Search_G_NonBrand_Lending_BMM&utm_content=fintechlending&utm_term=%2Bfintech%20%2Blending&utm_creative=442388372849&gclid=CjwKCAiAjp6BBhAIEiwAkO9WuknisBwQaIWq45KBsN_JaD01F4bZL4zB9a6Qp9745Mhz8nRv-_XV8RoCpgcQAvD_BwE
+* https://blog.lendified.com/small-business-loans-in-minutes-thanks-to-startups
