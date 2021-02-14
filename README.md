@@ -37,7 +37,7 @@ Big Data for insights for better decision.
 ##### What domain of the financial industry is the company in?
 * Credit & personal lending side of the financial industry and recently also developed Bit coin trading in their vast portfolio
 
-#####What have been the major trends and innovations of this domain over the last 5-10 years?
+##### What have been the major trends and innovations of this domain over the last 5-10 years?
 * In recent trends as per Morgan Stanley the rate of unsecured loan has increased from $23 Billion to $161 Billion in 2019 and Fintech lending has accounted for 36% of lending compared to 5% in 2013.
 
 * The reason for such an expansion in the client base is the ease of applying the loan and being approved in less than 5 minutes without the hassle of going to the bank and spending days and higher chances of aproval than tradional banks but at cost of the higher interest rates for clients with bad credit
